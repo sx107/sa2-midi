@@ -8,7 +8,7 @@ This code uses CMSIS Library; it is provided along with the STM32CubeIDE project
 
 ### Folders and files description
 - code/stm32-sa2 - CubeIDE project for the blue pill firmware
-- hex - TODO firmware hex files
+- hex - firmware hex files
 - schematic/blue pill.pdf - connection schematic for the blue pill
 
 ### Supported MIDI features and MIDI bindings
