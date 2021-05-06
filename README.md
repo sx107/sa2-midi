@@ -35,7 +35,7 @@ See code/stm32-sa2/Src/midi_sa2_handler.c for midi bindings.
 ### TODO
 
 - [ ] Add video and article links when they will be released
-- [ ] Add HEX files
+- [X] Add HEX files
 - [ ] Add SA-5, SA-35 and similar keyboards support
 - [ ] Make a custom midi-mod PCB
 - [ ] Make a standalone custom PCB with a socket for OKI M6387-11
