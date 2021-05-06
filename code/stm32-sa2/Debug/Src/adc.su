@@ -1,0 +1,2 @@
+adc.c:12:6:adc_init	4	static
+adc.c:44:10:adc_val	24	static

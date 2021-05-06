@@ -1,0 +1,6 @@
+si5351.c:21:14:si5351_init	32	static
+si5351.c:33:14:si5351_setupPLL	48	static
+si5351.c:85:14:si5351_setMultisynthControl	24	static
+si5351.c:93:14:si5351_setupMultisynth	48	static
+si5351.c:147:14:si5351_enableOutput	24	static
+si5351.c:157:14:si5351_disableOutput	24	static

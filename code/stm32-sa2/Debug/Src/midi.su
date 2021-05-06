@@ -1,0 +1,9 @@
+core_cm3.h:1499:26:__NVIC_GetPriorityGrouping	4	static
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+core_cm3.h:1686:26:NVIC_EncodePriority	40	static
+midi.c:26:6:USART1_IRQHandler	16	static
+midi.c:73:6:midi_init	8	static
+midi.c:101:6:midi_enable	4	static
+midi.c:105:6:midi_disable	4	static
+midi.c:109:6:midi_set_channel	16	static
