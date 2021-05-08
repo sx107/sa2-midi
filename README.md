@@ -6,6 +6,10 @@ This is a connection schematic and stm32f103 blue pill board firmware for a casi
 License: BSD 3-Clause License according to STM files
 This code uses CMSIS Library; it is provided along with the STM32CubeIDE project file for the ease of compilation.
 
+### Assembly video
+I'd recommend you watch this video (see it's contents) before you attempt to make this mod:
+https://youtu.be/5RmRcwsKpWI
+
 ### Folders and files description
 - code/stm32-sa2 - CubeIDE project for the blue pill firmware
 - hex - firmware hex files
