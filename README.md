@@ -32,6 +32,9 @@ See code/stm32-sa2/Src/midi_sa2_handler.c for midi bindings.
 - G2 and G#2: glitch triggers (makes the clock noisy for a short period)
 - A#2: Casio CPU (OKI M6387-11) reset
 
+### Key matrix map
+See code/stm32-sa2/Src/sa2.c
+
 ### TODO
 
 - [ ] Add video and article links when they will be released
